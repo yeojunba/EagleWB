@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/EagleWB-ascii-github.png"
+    src="./assets/EagleWB-ascii-transparent.png"
     alt="EagleWB ASCII Art"
     width="760"
   />
